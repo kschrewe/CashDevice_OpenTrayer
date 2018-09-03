@@ -1,0 +1,8 @@
+c:\users\schrewe\documents\visual studio 2015\Projects\CallSerialPort\CallSerialPort\bin\Debug\CallSerialPort.exe
+c:\users\schrewe\documents\visual studio 2015\Projects\CallSerialPort\CallSerialPort\bin\Debug\CallSerialPort.pdb
+c:\users\schrewe\documents\visual studio 2015\Projects\CallSerialPort\CallSerialPort\obj\Debug\CallSerialPort.csprojResolveAssemblyReference.cache
+c:\users\schrewe\documents\visual studio 2015\Projects\CallSerialPort\CallSerialPort\obj\Debug\CallSerialPort.exe
+c:\users\schrewe\documents\visual studio 2015\Projects\CallSerialPort\CallSerialPort\obj\Debug\CallSerialPort.pdb
+C:\Users\schrewe\documents\visual studio 2015\Projects\CallSerialPort\CallSerialPort\bin\Debug\Interop.OICFiscalPrinterLib.dll
+C:\Users\schrewe\documents\visual studio 2015\Projects\CallSerialPort\CallSerialPort\obj\Debug\Interop.OICFiscalPrinterLib.dll
+C:\Users\schrewe\documents\visual studio 2015\Projects\CallSerialPort\CallSerialPort\obj\Debug\CallSerialPort.csproj.ResolveComReference.cache

@@ -1,0 +1,12 @@
+C:\Users\schrewe\Documents\Visual Studio 2015\Projects\CallSerialPort\CallSerialPort\obj\Release\Interop.OICFiscalPrinterLib.dll
+C:\Users\schrewe\Documents\Visual Studio 2015\Projects\CallSerialPort\CallSerialPort\obj\Release\OpenDrawer.csproj.ResolveComReference.cache
+C:\Users\schrewe\Documents\Visual Studio 2015\Projects\CallSerialPort\CallSerialPort\bin\Release\CallSerialPort.exe
+C:\Users\schrewe\Documents\Visual Studio 2015\Projects\CallSerialPort\CallSerialPort\bin\Release\CallSerialPort.pdb
+C:\Users\schrewe\Documents\Visual Studio 2015\Projects\CallSerialPort\CallSerialPort\bin\Release\Interop.OICFiscalPrinterLib.dll
+C:\Users\schrewe\Documents\Visual Studio 2015\Projects\CallSerialPort\CallSerialPort\obj\Release\CallSerialPort.exe
+C:\Users\schrewe\Documents\Visual Studio 2015\Projects\CallSerialPort\CallSerialPort\obj\Release\CallSerialPort.pdb
+C:\Users\schrewe\Documents\Visual Studio 2015\Projects\CallSerialPort\CallSerialPort\obj\Release\OpenDrawer.csprojResolveAssemblyReference.cache
+C:\Users\schrewe\Documents\Visual Studio 2015\Projects\Shop_OpenDrawer\CallSerialPort\obj\Release\Interop.OICFiscalPrinterLib.dll
+C:\Users\schrewe\Documents\Visual Studio 2015\Projects\Shop_OpenDrawer\CallSerialPort\obj\Release\OpenDrawer.csproj.ResolveComReference.cache
+C:\Users\schrewe\Documents\Visual Studio 2015\Projects\Shop_OpenDrawer\CallSerialPort\obj\Release\CallSerialPort.exe
+C:\Users\schrewe\Documents\Visual Studio 2015\Projects\Shop_OpenDrawer\CallSerialPort\obj\Release\CallSerialPort.pdb
